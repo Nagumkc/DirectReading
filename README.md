@@ -1,4 +1,4 @@
-# DirectReading
+# DirectReading-RealtimeBigdata
 
 Lab1 : Spark program for sentence count and display in alphabetical order
 
